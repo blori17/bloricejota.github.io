@@ -1,0 +1,62 @@
+.blue {
+    background-color: rgb(211, 200, 41);
+    display: flex;
+    width: 812px;
+    margin:5px;
+    height: 10vh;
+    position: absolute;
+    border-radius: 10px;
+    
+}
+.white {
+    background-color: rgb(215, 231, 123);
+    width: 820px;
+    height: 500px;
+    display: flex;
+    border-radius: 10px;
+
+}
+.title {
+    display: flex;
+    color: chocolate;
+    margin-top: 230px;
+    margin-left: 
+    
+}
+.title1 {
+    color: rgb(168, 110, 21);
+    display: flex;
+    margin-top: 310px;
+    margin-left: -170px;
+    
+
+}
+.title2 {
+    display: flex;
+    margin-top: 380px;
+    margin-left: -230px;
+    color: chocolate;
+}
+    
+
+
+img {
+    position: absolute;
+    border-radius: 50%;
+    height: 200px;
+    margin-top: -460px;
+    margin-left: 1%;
+}
+
+body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/385/908/1002/gta-san-andreas-grand-theft-auto-san-andreas-grand-theft-auto-4k-unreal-engine-4-hd-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ input{
+    border: none;
+    background-color: rgb(165, 147, 42);
+    border-radius: 5px;
+    margin-top: 470px;
+    margin-left: 10%;
+}
